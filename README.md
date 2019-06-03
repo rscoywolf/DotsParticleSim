@@ -8,7 +8,7 @@ It is only compatible with Windows systems.
 
 To run it:
 1. Download the repository as a zip and unpack it.
-[![Download Button](https://github.com/rscoywolf/DotsParticleSim/blob/master/DemoPhotos/GithubDownload.png)]
+[![Download Button](https://github.com/rscoywolf/DotsParticleSim/blob/master/DemoPhotos/GithubDownload.png){:style="float: left;margin-left: 7px;margin-top: 7px;"}]
 2. Portable -> Open folder for respective system (32/64 bit)
     You can find out what OS you are running on by opening PC Info
 3. Run the application titled Dots.exe
