@@ -1,9 +1,9 @@
 # DotsParticleSim
 This is an interactive particle simulation made with C++.
 It is only compatible with Windows systems.
-[![Demo 1](https://raw.githubusercontent.com/rscoywolf/DotsParticleSim/DemoPhotos/Demo1.png)]
-[![Demo 2](https://raw.githubusercontent.com/rscoywolf/DotsParticleSim/DemoPhotos/Demo2.png)]
-[![Demo 3](https://raw.githubusercontent.com/rscoywolf/DotsParticleSim/DemoPhotos/Demo3.png)]
+[![Demo 1](https://github.com/rscoywolf/DotsParticleSim/blob/master/DemoPhotos/Demo1.PNG)]
+[![Demo 2](https://github.com/rscoywolf/DotsParticleSim/blob/master/DemoPhotos/Demo2.PNG)]
+[![Demo 3](https://github.com/rscoywolf/DotsParticleSim/blob/master/DemoPhotos/Demo3.PNG)]
 
 
 To run it:
