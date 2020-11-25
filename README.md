@@ -14,6 +14,3 @@ To run it:
 3. Run the application titled Dots.exe
 
 Created by Ryan Spurgeon
-
-© Copyright 2019 
-All rights reserved
