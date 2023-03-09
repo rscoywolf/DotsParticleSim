@@ -1,5 +1,5 @@
 # DotsParticleSim
-This is an interactive particle simulation made with C++.
+This is an interactive particle simulation made with Processing.
 It is only compatible with Windows systems.
 [![Demo 1](https://github.com/rscoywolf/DotsParticleSim/blob/master/DemoPhotos/Demo1.PNG)]
 [![Demo 2](https://github.com/rscoywolf/DotsParticleSim/blob/master/DemoPhotos/Demo2.PNG)]
